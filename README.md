@@ -1,3 +1,6 @@
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script>
+
 ## Welcome to Numerical Recipes for Radiative Transfer in Stellar Atmospheres
 
 You can use the [editor on GitHub](https://github.com/nikolavitas/nvblog.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
