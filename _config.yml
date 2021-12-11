@@ -1,5 +1,4 @@
-theme: jekyll-theme-cayman
-mathjax: true
+theme: jekyll-theme-architect
 layout: post
 comments: true
 title: "Numerical recipes for Radiative Transfer in Stellar Atmospheres"
