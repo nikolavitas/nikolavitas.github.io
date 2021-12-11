@@ -6,7 +6,8 @@ The repositories here contain various routines for modeling stellar atmospheres 
 Most of the routines are described in detail in various posts in my blog
 [http://nikolavitas.blogspot.com](http://nikolavitas.blogspot.com) and 
 
-![My helpful screenshot](/img/238000red.png)
+
+![](/img/238000red.png)
 
 ---
 
