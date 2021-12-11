@@ -1,46 +1,8 @@
 
-## Welcome to Numerical Recipes for Radiative Transfer in Stellar Atmospheres
+## Numerical Recipes for Stellar Atmospheres
 
-You can use the [editor on GitHub](https://github.com/nikolavitas/nvblog.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The repositories here contain various routines for modeling stellar atmospheres from the first principles. Modeling atmospheres in 1D and 3D is intrinsically similar in terms of involved physics, the two tasks are very different in terms of required computing time. The 1D problem is solvable even in a slow script language as IDL (or Python), while for 3D it is necessity to write codes in parallel Fortran. An obvious advantage of having 1D routines in IDL equivalent to their 3D counterparts in Fortran is that IDL code is much easier to debug and the results can be directly visualize, so it is an excellent tool for prototyping and performing simple experiments. Another advantage of IDL is that its syntax is rather similar to the syntax of Fortran and thus the translation of the code form one to another is fairly quick and simple.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block $x = y^2$
-
-$$x = \sin(y^2}$$
-
-# Atomic
-
-# AtomicPF
-
-# Molecular
-
-# EOS - Pure hydrogen
-
-# EOS - VMW
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Most of the routines are described in detail in various posts in my blog
+[http://nikolavitas.blogspot.com](http://nikolavitas.blogspot.com) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nikolavitas/nvblog.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
